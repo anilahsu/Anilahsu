@@ -12,7 +12,7 @@
 • Outside of developing and coding, I am also fond of photography and have worked as a photographer at a technology conference.<br>
 • For more information about me or want to take a look at my photography, feel free to visit my [Portfolio](https://anilahsu.github.io/Portfolio/)!<br>
 
-<div style="display:flex">
+<div style="display:flex;justfly-content:center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anilahsu&count_private=true&show_icons=true&theme=graywhite&border_radius=20" />
         <img src="https://github-readme-stats.vercel.app/api?username=anilahsu&count_private=true&show_icons=true&theme=graywhite&border_radius=20" />
@@ -23,7 +23,7 @@
     </picture>
 </div>
 
-<h3 align="center">Contact me</h3>
+<h2 align="center">Contact me</h2>
 <p align="center">
 <a href="mailto:simple01281017@gmail.com" ><img width="25" src="./img/mail.svg" /></a>
 <a href="https://www.linkedin.com/in/AnilaHsu" ><img width="25" src="./img/linkedin.svg" /></a>
