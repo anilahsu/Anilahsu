@@ -10,7 +10,7 @@ I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and 
 
 •  Into developing websites and am self-taught in React.js, Redux, TypeScript, and other web development skills!<br> 
 •  As a Frontend Developer volunteer at [WorkLifeInJapan](https://www.worklifeinjapan.net/home/about-us) community which shares diverse career and life perspectives in Japan.<br>
-•  Worked as Data Analyst, have experience with Python lecturer, held weekly programming club for colleagues to learn Python!<br>
+•  Worked as Data Analyst, have experience with Python lecturer, held weekly programming courses leading colleagues to learn Python!<br>
 •  Fond of writing, and built my [Blog](https://anila.me/) sharing the techniques and knowledge I've learned to help more developers!<br>
 •  Outside of developing, I'm also keen on photography and have worked as a photographer at a tech conference.<br>
 •  For more information about me or want to take a look at my photography, feel free to visit my [Portfolio](https://anilahsu.github.io/Portfolio/)!<br>
