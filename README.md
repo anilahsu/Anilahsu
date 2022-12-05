@@ -28,7 +28,7 @@ I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and 
 
 <h2 align="center">Contact me</h2>
 <p align="center">
-<a href="mailto:simple01281017@gmail.com" ><img width="25" src="./img/mail.svg" /></a>
+<a href="mailto:yashuhsu.anila@gmail.com" ><img width="25" src="./img/mail.svg" /></a>
 <a href="https://www.linkedin.com/in/AnilaHsu" ><img width="25" src="./img/linkedin.svg" /></a>
 <a href="https://twitter.com/AnilaHsu" ><img width="25" src="./img/twitter.svg" /></a>
 <a href="https://www.instagram.com/anila_hsu/" ><img width="25" src="./img/instagram.svg" /></a>
