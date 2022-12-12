@@ -4,7 +4,7 @@
 </h2>
 
 #### about me.
-I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and User Interface, Fond of developing delightful user-friendly websites. I'm also into sharing knowledge, enjoy experimenting with new technologies, and am keen on participating in the community! Expect to continue to grow and progress with my enthusiasm for development, as well as the skills and experience I've learned along the way, and also help more developers learn together!
+I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and User Interface, fond of developing delightful user-friendly websites. I'm also into sharing knowledge, enjoy experimenting with new technologies, and am keen on participating in the community! Expect to continue to grow and progress with my enthusiasm for development, as well as the skills and experience I've learned along the way, and also help more developers learn together!
 
 #### about what I am involved in.
 
