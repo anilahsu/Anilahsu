@@ -18,7 +18,7 @@ I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and 
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anilahsu&count_private=true&show_icons=true&theme=graywhite&border_radius=20" />
-        <img src="https://github-readme-stats.vercel.app/api?username=anilahsu&count_private=true&show_icons=true&theme=graywhite&border_radius=20" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anilahsu&count_private=true&show_icons=true&theme=graywhite&border_radius=20" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=anilahsu&theme=icegray&border_radius=20&border=dcdcdc" />
