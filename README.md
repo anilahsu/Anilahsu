@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi!  I'm Anila
-<img width="60" src="./img/favicon.jpg" />
+<img width="60" src="./img/favicon.png" />
 </h2>
 
 #### about me.
