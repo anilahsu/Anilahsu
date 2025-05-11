@@ -4,16 +4,10 @@
 </h2>
 
 #### about me.
-I'm a Frontend Developer from Taiwan, specializing in React.js, TypeScript, and User Interface, fond of developing delightful user-friendly websites. I'm also into sharing knowledge, enjoy experimenting with new technologies, and am keen on participating in the community! Expect to continue to grow and progress with my enthusiasm for development, as well as the skills and experience I've learned along the way, and also help more developers learn together!
+Hi. I'm Anila, a Frontend Developer specializing in React.js, Next.js, and TypeScript.
+I'm passionate about creating user friendly applications that provide delightful user experiences, and engaged in improving frontend performance.
 
-#### about what I am involved in.
-
-•  Into developing websites and am self-taught in React.js, Redux, TypeScript, and other web development skills!<br> 
-•  As a Frontend Developer volunteer at [WorkLifeInJapan](https://www.worklifeinjapan.net/home/about-us) community which shares diverse career and life perspectives in Japan.<br>
-•  Worked as Data Analyst, have experience with lecturer, held weekly programming courses leading colleagues to learn Python!<br>
-•  Fond of writing, and built my [Blog](https://anilahsu.github.io/blog/) sharing the techniques and knowledge I've learned to help more developers!<br>
-•  Outside of developing, I'm also keen on photography and have worked as a photographer at a tech conference.<br>
-•  For more information about me or want to take a look at my photography, feel free to visit my [Portfolio](https://anila.me/)!<br>
+I enjoy learning and sharing what I've learnt, experimenting with new technologies, and participating in the community! With my passion for development and the skills and experiences I've learned along the way, I hope to continue to grow and improve, as well as help more developers learn together!
 
 <div align="center">
     <picture>
