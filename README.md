@@ -4,10 +4,10 @@
 </h2>
 
 #### about me.
-Hi. I'm Anila, a Frontend Developer specializing in React.js, Next.js, and TypeScript.
-I'm passionate about creating user friendly applications that provide delightful user experiences, and engaged in improving frontend performance.
+Hi. I'm Anila, a Frontend Developer specializing in React.js, Next.js, TypeScript, and web development.
+I'm passionate about building user friendly applications that offer delightful experiences, while constantly working to improve frontend performance.
 
-I enjoy learning and sharing what I've learnt, experimenting with new technologies, and participating in the community! With my passion for development and the skills and experiences I've learned along the way, I hope to continue to grow and improve, as well as help more developers learn together!
+I’m passionate about learning and sharing what I’ve learnt, experimenting with new technologies, and engaging with the community. With my love for development and the skills and experiences I've gained along the way, I’m committed to continuing my growth while helping others learn and grow together!
 
 <div align="center">
     <picture>
