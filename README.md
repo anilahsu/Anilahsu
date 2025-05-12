@@ -7,7 +7,7 @@
 Hi. I'm Anila, a Frontend Developer specializing in React.js, Next.js, TypeScript, and web development.
 I'm passionate about building user friendly applications that offer delightful experiences, while constantly working to improve frontend performance.
 
-I’m passionate about learning and sharing what I’ve learnt, experimenting with new technologies, and engaging with the community. With my love for development and the skills and experiences I've gained along the way, I’m committed to continuing my growth while helping others learn and grow together!
+I enjoy learning and sharing what I’ve learnt, experimenting with new technologies, and engaging with the community. With my passion for development, skills, and experiences I've gained along the way, I’m committed to continuing my growth while helping others learn and grow together!
 
 <div align="center">
     <picture>
