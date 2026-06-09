@@ -4,10 +4,7 @@
 </h2>
 
 #### about me.
-Hi. I'm Anila, a Frontend Developer specializing in React.js, Next.js, TypeScript, and web development.
-I'm passionate about building user friendly applications that offer delightful experiences, while constantly working to improve frontend performance.
-
-I enjoy learning and sharing what I’ve learnt, experimenting with new technologies, and engaging with the community. With my passion for development, skills, and experiences I've gained along the way, I’m committed to continuing my growth while helping others learn and grow together!
+Hi. I'm Anila, a software engineer who enjoys turning ideas into user-friendly web applications. I specialize in React.js, Next.js, TypeScript, and modern web development, with a focus on building intuitive, delightful, and maintainable user experiences. I enjoy learning and sharing what I learn, am interested in new technologies, and try to approach each challenge with curiosity and intention. As I continue growing as an engineer, I hope to contribute to meaningful products and support others in their own learning journeys!
 
 <div align="center">
     <picture>
@@ -25,5 +22,4 @@ I enjoy learning and sharing what I’ve learnt, experimenting with new technolo
 <a href="mailto:yashuhsu.anila@gmail.com" ><img width="25" src="./img/mail.svg" /></a>
 <a href="https://www.linkedin.com/in/anilahsu" ><img width="25" src="./img/linkedin.svg" /></a>
 <a href="https://twitter.com/anila_yashu" ><img width="25" src="./img/twitter.svg" /></a>
-<a href="https://www.instagram.com/anila.yashu/" ><img width="25" src="./img/instagram.svg" /></a>
 </p>
