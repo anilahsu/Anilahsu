@@ -5,7 +5,7 @@
 
 #### about me.
 
-Hi. I'm Anila, a Frontend Engineer specializing in React.js, Next.js, TypeScript, and modern web development. I enjoy turning ideas into intuitive, seamless, and user-friendly web applications, with a focus on performance, maintainability, and thoughtful user experience. I’ve built [Yori](https://yoridesu.com), a Japanese learning app; [Yori Dict](https://github.com/anilahsu/yori-dict), an open Japanese multilingual dictionary; and [SG exam](https://sg.yoridesu.com), an information security learning app to help people learn.
+Hi. I'm Anila, a Frontend Engineer specializing in React.js, Next.js, TypeScript, and modern web development. I enjoy turning ideas into intuitive, seamless, and user-friendly web applications, with a focus on performance, maintainability, and thoughtful user experience. I’ve built [Yori](https://yoridesu.com), a Japanese learning app; [Yori Dict](https://github.com/anilahsu/yori-dict), an open Japanese multilingual dictionary; [Yori News](https://news.yoridesu.com), a Japanese and English reading news app; and [SG exam](https://sg.yoridesu.com), an information security learning app to help people learn.
 
 I’m interested in new technologies. I try to approach each challenge with curiosity and intention. As I continue growing as an engineer, I hope to contribute to meaningful products and support others in their own learning journeys!
 
