@@ -8,8 +8,8 @@ Hi, I'm Anila, a Software Engineer passionate about building intuitive and user-
 I enjoy turning ideas into real products, especially tools that make learning easier and more accessible. Here are some projects I've built:
 
 - Yori: A [Web App](https://yoridesu.com/) for learning Japanese.
-- Yori Dict: An open-source Japanese and English dictionary with multilingual support, available on [GitHub](https://github.com/YoriJP/yori-dict) and through a public [API](https://yori-dict-production.up.railway.app/doc#description/introduction). 
-- Yori News: A Japanese and English news-reading app designed to support language learning, available on [Web](https://news.yoridesu.com/), [iOS](https://apps.apple.com/tw/app/yori-news/id6794339271), and [Android](https://play.google.com/store/apps/details?id=com.yoridesu.news).
+- Yori Dict: An open-source Japanese and English dictionary with multilingual support, available on [GitHub](https://github.com/YoriJP/yori-dict) and a public [API](https://yori-dict-production.up.railway.app/doc#description/introduction). 
+- Yori News: A Japanese and English news-reading app designed for language learning, available on [Web](https://news.yoridesu.com/), [iOS](https://apps.apple.com/tw/app/yori-news/id6794339271), and [Android](https://play.google.com/store/apps/details?id=com.yoridesu.news).
 - SG Exam: An information security learning [Web App](https://sg.yoridesu.com/).
 
 I'm always learning,  exploring new technologies, and building things that people find useful.
