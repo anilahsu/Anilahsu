@@ -18,5 +18,5 @@ I'm always learning,  exploring new technologies, and building things that peopl
 <p align="center">
 <a href="mailto:yashuhsu.anila@gmail.com" ><img width="25" src="./img/mail.svg" /></a>
 <a href="https://www.linkedin.com/in/anilahsu" ><img width="25" src="./img/linkedin.svg" /></a>
-<a href="https://twitter.com/anila_yashu" ><img width="25" src="./img/twitter.svg" /></a>
+<a href="https://twitter.com/anilahsu" ><img width="25" src="./img/twitter.svg" /></a>
 </p>
